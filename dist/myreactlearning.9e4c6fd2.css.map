@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["div {\r\n  border: 1px solid black;\r\n  min-width: 200;\r\n  min-height: 200;\r\n}"],"names":[],"version":3,"file":"myreactlearning.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}

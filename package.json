@@ -1,0 +1,28 @@
+{
+  "name": "myreactlearning",
+  "version": "1.0.0",
+  "description": "This is sample project by sudhakar with major concepts in react",
+  "keywords": [
+    "gsreact"
+  ],
+  "homepage": "https://github.com/SudhakarGarikipati/reactpractice#readme",
+  "bugs": {
+    "url": "https://github.com/SudhakarGarikipati/reactpractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudhakarGarikipati/reactpractice.git"
+  },
+  "license": "ISC",
+  "author": "sudhakar",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
